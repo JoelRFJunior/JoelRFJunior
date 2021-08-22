@@ -1,4 +1,4 @@
-### Oi, tudo bem?? Prazer eu sou o Joel R. Ferreira jr 👋
+### Oi, tudo bem?? Prazer eu sou o Joel R. Ferreira Jr 👋
 
 <!--
 **JoelRFJunior/JoelRFJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
