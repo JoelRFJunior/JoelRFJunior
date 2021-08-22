@@ -1,4 +1,4 @@
-### Oi, tudo bem?? Prazer eu sou o Joel R. Ferreira Jr 👋
+### Oi, tudo bem?? Prazer, eu sou o Joel R. Ferreira Jr 👋
 
 <!--
 **JoelRFJunior/JoelRFJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 👯 Eu procuro trabalhar com desenvolvimento Full Stack
+- 👯 Eu procuro trabalhar com Desenvolvimento Full Stack
 - 😄 Pronome: Ele/Dele
 
 <div>
